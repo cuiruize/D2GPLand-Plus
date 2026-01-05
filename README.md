@@ -8,7 +8,7 @@
 <a href="https://arxiv.org/abs/2507.00519"><img src='https://img.shields.io/badge/arXiv-coming-red' alt='Paper PDF'></a>
 
 Official Implementation of paper "*Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection*"
-![overview](assets/overview.png)
+![overview](assets/D2GPLandPlus.jpeg)
 
 </div>
 
@@ -38,7 +38,11 @@ Install pan-Mamba [[Pan-Mamba](https://github.com/alexhe101/Pan-Mamba/)]
 ### Download evaluation datasets
 - L3D dataset: https://github.com/PJLallen/D2GPLand
 - P2ILF dataset: https://p2ilf.grand-challenge.org/
+
+### L3D-2K Dataset
 - L3D-2K dataset: coming soon...
+![dataset](assets/L3D-2K.jpeg)
+
 ### Register datasets
 Change the path of the datasets as:
 ```shell
