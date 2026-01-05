@@ -40,7 +40,7 @@ Install pan-Mamba [[Pan-Mamba](https://github.com/alexhe101/Pan-Mamba/)]
 - P2ILF dataset: https://p2ilf.grand-challenge.org/
 
 ### L3D-2K Dataset
-- L3D-2K dataset: coming soon...
+- L3D-2K dataset: [Google Drive](https://drive.google.com/drive/folders/1OFPQ97dAza-ZMQlukSBqL2x96ULpkJvR?usp=sharing)
 ![dataset](assets/L3D-2K.jpeg)
 
 ### Register datasets
@@ -51,14 +51,11 @@ or
 DATASET_ROOT = 'D2GPLand-Plus/P2ILF/'
 or
 DATASET_ROOT = 'D2GPLand-Plus/L3D-2K/'
-TRAIN_PATH = os.path.join(DATASET_ROOT, 'Train/')
-TEST_PATH = os.path.join(DATASET_ROOT, 'Test/')
-VAL_PATH = os.path.join(DATASET_ROOT, 'Val/')
 ```
 
 ## Pre-trained weightts
 
-D2GPLand+ weights: coming soon
+D2GPLand+ weights: [Google Drive](https://drive.google.com/drive/folders/1w98V81BlyI0kdqElUNkUmUh6zINU8qjd?usp=sharing)
 
 Depth Anything V2 with vitb pre-trained weights: [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)
 
