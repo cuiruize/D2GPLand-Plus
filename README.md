@@ -13,7 +13,7 @@ Official Implementation of paper "*Depth-Induced Prompt Learning for Laparoscopi
 </div>
 
 ## Environment preparation
-The code is tested on python 3.9.23, pytorch 1.10.1, and CUDA 11.3.1, change the versions below to your desired ones.
+The code is tested on python 3.9.19, pytorch 2.1.1, and CUDA 12.6, change the versions below to your desired ones.
 1. Clone repository:
 ```shell
 git clone https://github.com/cuiruize/D2GPLand-Plus.git
