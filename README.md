@@ -1,11 +1,11 @@
 <div align=center>
-<h1>D2GPLand+: Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection</h1>
+<h1>[MedIA'26]D2GPLand+: Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection</h1>
 
 [**Ruize Cui**](https://scholar.google.com/citations?hl=en&user=rAcxfuUAAAAJ), [**Weixin Si**](https://scholar.google.com/citations?user=E4efwTgAAAAJ&hl=zh-CN&oi=ao), **Zhixi Li**, **Kai Wang**, [**Jialun Pei**](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [**Pheng-Ann Heng**](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en), and [**Jing Qin**](https://harry-qinjing.github.io/)
 
 **Contact:** ruize.cui@connect.polyu.hk, peijialun@gmail.com
 
-<a href="https://arxiv.org/abs/2507.00519"><img src='https://img.shields.io/badge/arXiv-coming-red' alt='Paper PDF'></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841526000095"><img src='https://img.shields.io/badge/MedIA-D2GPLand+-green' alt='Paper PDF'></a>
 
 Official Implementation of paper "*Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection*"
 ![overview](assets/D2GPLandPlus.jpeg)
