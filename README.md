@@ -101,6 +101,7 @@ If this helps you, please cite this work:
 @article{cui2026depth,
   title={Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection},
   author={Cui, Ruize and Si, Weixin and Li, Zhixi and Wang, Kai and Pei, Jialun and Heng, Pheng-Ann and Qin, Jing},
+  journal={Medical Image Analysis},
   year={2026},
 }
 ```
