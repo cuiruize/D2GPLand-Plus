@@ -5,7 +5,7 @@
 
 **Contact:** ruize.cui@connect.polyu.hk, peijialun@gmail.com
 
-<a href="https://www.sciencedirect.com/science/article/pii/S1361841526000095"><img src='https://img.shields.io/badge/MedIA-D2GPLand+-green' alt='Paper PDF'></a>
+<a href="https://doi.org/10.1016/j.media.2026.103940"><img src='https://img.shields.io/badge/MedIA-D2GPLand+-green' alt='Paper PDF'></a>
 
 Official Implementation of paper "*Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection*"
 ![overview](assets/D2GPLandPlus.jpeg)
